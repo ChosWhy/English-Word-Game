@@ -1,0 +1,14 @@
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\bin\Debug\Ingilizce Kelime Oyunu.exe.config
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\bin\Debug\Ingilizce Kelime Oyunu.exe
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\bin\Debug\Ingilizce Kelime Oyunu.pdb
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce Kelime Oyunu.csproj.AssemblyReference.cache
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce Kelime Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce_Kelime_Oyunu.Form1.resources
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce_Kelime_Oyunu.Properties.Resources.resources
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce Kelime Oyunu.csproj.GenerateResource.cache
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce Kelime Oyunu.csproj.CoreCompileInputs.cache
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce Kelime Oyunu.exe
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce Kelime Oyunu.pdb
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce_Kelime_Oyunu.Form2.resources
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce_Kelime_Oyunu.Form3.resources
+C:\C# Projects\Ingizlice kelime ezberleme oyunu\Ingilizce Kelime Oyunu\Ingilizce Kelime Oyunu\obj\Debug\Ingilizce_Kelime_Oyunu.Form4.resources
